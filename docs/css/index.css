@@ -1,0 +1,8 @@
+.col-md-12{
+	margin-top: 20px;
+}
+
+body > iframe{
+	opacity:0;
+	display:none;
+}
