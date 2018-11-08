@@ -20,12 +20,12 @@ $(document).ready(function(){
 '                <a href="#" class="toggle-menu"><i class="fa fa-bars"></i></a>'+
 '                <div class="main-navigation responsive-menu">'+
 '                    <ul class="navigation">'+
-'                        <li><a href="#top"><i class="fa fa-home"></i>导航页 (Dashboard)</a></li>'+
-'                    	 <li><a href="software_development.html"><i class="fa fa-pencil"></i>软件开发 (Software Development)</a></li>'+
-'                        <li><a href="#about"><i class="fa fa-book"></i>人工智能 (Artificial Intelligence)</a></li>'+
-'                        <li><a href="#about"><i class="fa fa-user"></i>数据挖掘 (Data Mining）</a></li>'+
-'                        <li><a href="#article"><i class="fa fa-music"></i>作曲/编曲 (Composing/Arranging)</a></li>'+
-'                        <li><a href="#contact"><i class="fa fa-envelope"></i>关于我（Bluemapleman）</a></li>'+
+'                        <li><a href="dashboard.html"><i class="fa fa-home"></i>导航页 (Dashboard)</a></li>'+
+'                    	 <li><a href="sd.html"><i class="fa fa-pencil"></i>软件开发 (Software Development)</a></li>'+
+'                        <li><a href="ai.html"><i class="fa fa-book"></i>人工智能 (Artificial Intelligence)</a></li>'+
+'                        <li><a href="dm.html"><i class="fa fa-user"></i>数据挖掘 (Data Mining）</a></li>'+
+'                        <li><a href="ca.html"><i class="fa fa-music"></i>作曲/编曲 (Composing/Arranging)</a></li>'+
+'                        <li><a href="me.html"><i class="fa fa-envelope"></i>关于我（Bluemapleman）</a></li>'+
 '                        '+
 '                    </ul>'+
 '                </div>'+
@@ -52,12 +52,12 @@ $(document).ready(function(){
 '            '+
 '            <div class="main-navigation">'+
 '                <ul class="navigation">'+
-'                        <li><a href="#top"><i class="fa fa-home"></i>导航页 (Dashboard)</a></li>'+
-'                    	 <li><a href="software_development.html"><i class="fa fa-pencil"></i>软件开发 (Software Development)</a></li>'+
-'                        <li><a href="#about"><i class="fa fa-book"></i>人工智能 (Artificial Intelligence)</a></li>'+
-'                        <li><a href="#about"><i class="fa fa-user"></i>数据挖掘 (Data Mining）</a></li>'+
-'                        <li><a href="#article"><i class="fa fa-music"></i>作曲/编曲 (Composing/Arranging)</a></li>'+
-'                        <li><a href="#contact"><i class="fa fa-envelope"></i>关于我（Bluemapleman）</a></li>'+
+'                        <li><a href="dashboard.html"><i class="fa fa-home"></i>导航页 (Dashboard)</a></li>'+
+'                    	 <li><a href="sd.html"><i class="fa fa-pencil"></i>软件开发 (Software Development)</a></li>'+
+'                        <li><a href="ai.html"><i class="fa fa-book"></i>人工智能 (Artificial Intelligence)</a></li>'+
+'                        <li><a href="dm.html"><i class="fa fa-user"></i>数据挖掘 (Data Mining）</a></li>'+
+'                        <li><a href="ca.html"><i class="fa fa-music"></i>作曲/编曲 (Composing/Arranging)</a></li>'+
+'                        <li><a href="me.html"><i class="fa fa-envelope"></i>关于我（Bluemapleman）</a></li>'+
 '                </ul>'+
 '            </div> <!-- .main-navigation -->'+
 '            '+
